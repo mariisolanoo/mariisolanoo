@@ -1,4 +1,4 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart## Hi there 👋
 
 <!--
 **mariisolanoo/mariisolanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Boas vindas ao meu perfil :blue_heart
+Meu nome é Mariana Pereira Solano
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo :mailbox
+
+solanooomarii@gmail.com
+@mariisolanooo
